@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<loader>
+  <options>
+    <option name="srcpath" value="https://dex.dialerex.ru/loader/" />
+    <option name="dstpath" value="%LocalApplicationData%\SIIS Ltd\DEX WWP" />
+  </options>
+
+  <files>
+    <file name="SIISLtd.DEX.WWP.exe" executable="true" />
+    <file name="*.config" />
+    <file name="*.dll" />
+    <file name="*.pdb" />
+  </files>
+</loader>
